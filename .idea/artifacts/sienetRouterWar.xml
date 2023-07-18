@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="sienetRouterWar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sienetRouterWar</output-path>
+    <root id="archive" name="sienetRouterWar.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+    </root>
+  </artifact>
+</component>
